@@ -1,6 +1,10 @@
 # An Introduction to Simulating Human Survey Responses with Large Language Models: Potentials and Pitfalls
 
-Welcome to **An Introduction to Simulating Human Survey Responses with Large Language Models: Potentials and Pitfalls.** This [tutorial](https://dess-mannheim.github.io/tutorial_simulating_survey_responses/) takes place at the [12th International Conference on Computational Social Science (IC²S²)](https://ic2s2-2026.org/) in Burlington, Vermont. This tutorial’s goal is to provide a hands-on introduction to simulating human survey responses with LLMs, with a focus on survey-centric use cases including survey pretesting, hybrid designs that combine human and simulated respondents, and missing-data imputation.
+Welcome to **An Introduction to Simulating Human Survey Responses with Large Language Models: Potentials and Pitfalls.** This tutorial takes place at the [12th International Conference on Computational Social Science (IC²S²)](https://ic2s2-2026.org/) in Burlington, Vermont. This tutorial’s goal is to provide a hands-on introduction to simulating human survey responses with LLMs, with a focus on survey-centric use cases including survey pretesting, hybrid designs that combine human and simulated respondents, and missing-data imputation.
+
+**Organizers:** Georg Ahnert, Maximilian Kreutner, Jens Rupprecht, Markus Strohmaier, Kristina Gligorić, and Indira Sen
+
+**Tutorial homepage:** https://dess-mannheim.github.io/tutorial_simulating_survey_responses/
 
 ## Run the code
 
