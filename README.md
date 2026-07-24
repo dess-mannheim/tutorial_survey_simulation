@@ -22,12 +22,12 @@ The tutorial is intended for researchers and graduate students in computational 
 
 ## Run the code
 
-You can clone the repo and run the code locally or run the notebooks directly in Google Colab. (TODO add Notebooks and links).
+You can clone the repo and run the code locally or run the notebooks directly in Google Colab.
+
+If you want to run the code locally, simply clone the repo, install `uv` if you don't have it and run `uv sync`. If you want to follow the tutorial on Colab, simply click on one of the following links.
 
 We offer two notebooks:
 
-- **Session 2** (Compute Heavy): Runs inference with LLMs locally. We use QSTN to test multiple different setups.
-- **Session 4**: We evaluate our different runs with individual accuracy, population alignment and a simple regression.
+- Session 2 [![Session 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dess-mannheim/tutorial_survey_simulation/blob/main/notebooks/session2.ipynb): Runs inference with LLMs locally. We use QSTN to test multiple different setups. To run this you will need to have a GPU with at least 16GB VRAM. On Colab select the T4 GPU environment.
 
-
-
+- Session 4 [![Session 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dess-mannheim/tutorial_survey_simulation/blob/main/notebooks/session4.ipynb): We evaluate our different runs with individual accuracy, population alignment and a simple regression.

@@ -1,0 +1,17 @@
+[project]
+name = "tutorial-survey-simulation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=5.0.0",
+    "numpy>=2.3.5",
+    "pandas>=3.0.5",
+    "ppi-python>=0.2.3",
+    "qstn==0.5.2",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.18.0",
+    "seaborn>=0.13.2",
+    "vllm==0.24.0",
+]
