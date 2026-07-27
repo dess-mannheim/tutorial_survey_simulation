@@ -4,7 +4,7 @@ Welcome to **An Introduction to Simulating Human Survey Responses with Large Lan
 
 **Organizers:** Georg Ahnert, Maximilian Kreutner, Jens Rupprecht, Markus Strohmaier, Kristina Gligorić, Indira Sen
 
-**Tutorial homepage:** https://dess-mannheim.github.io/tutorial_simulating_survey_responses/
+**Tutorial homepage:** <https://dess-mannheim.github.io/tutorial_simulating_survey_responses/>
 
 ## Run the code
 
